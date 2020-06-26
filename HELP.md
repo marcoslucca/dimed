@@ -1,7 +1,11 @@
 # Getting Started
 
 ### Reference Documentation
+<<<<<<< HEAD
 For firther reference, please consider the following sections:
+=======
+For more reference, please consider the following sections:
+>>>>>>> conflict
 I am just making a conflict
 
 * [Official Gradle documentation](https://docs.gradle.org)
