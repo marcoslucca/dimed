@@ -1,7 +1,8 @@
 # Getting Started
 
 ### Reference Documentation
-For further reference, please consider the following sections:
+For reference, please consider the following sections:
+I am just making a conflict
 
 * [Official Gradle documentation](https://docs.gradle.org)
 * [Spring Boot Gradle Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.2.RELEASE/gradle-plugin/reference/html/)
